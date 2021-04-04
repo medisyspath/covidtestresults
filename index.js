@@ -29,6 +29,10 @@ function user1() {
     );
   } else if (user == "7895890330" && pass == "7895") {
     window.open("covidtestresults/assets/reports/Mr GITESH ARORA_20Y_Male.pdf");
+  } else if (user == "7452942555" && pass == "7452") {
+    window.open(
+      "covidtestresults/assets/reports/Mr ASHUTOSH TRIPATHI_19Y_Male.pdf"
+    );
   } else {
     alert("PhoneNo/Password Mismatched...");
   }
