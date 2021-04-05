@@ -33,6 +33,10 @@ function user1() {
     window.open(
       "covidtestresults/assets/reports/Mr ASHUTOSH TRIPATHI_19Y_Male.pdf"
     );
+  } else if (user == "8003033317" && pass == "8003") {
+    window.open(
+      "covidtestresults/assets/reports/Mr ANIKET AGARWAL_20Y_Male.pdf"
+    );
   } else {
     alert("PhoneNo/Password Mismatched...");
   }
