@@ -37,6 +37,10 @@ function user1() {
     window.open(
       "covidtestresults/assets/reports/Mr ANIKET AGARWAL_20Y_Male.pdf"
     );
+  } else if (user == "8279951589" && pass == "8279") {
+    window.open(
+      "covidtestresults/assets/reports/Ms SURABHI SHARMA_19Y_Female.pdf"
+    );
   } else {
     alert("PhoneNo/Password Mismatched...");
   }
