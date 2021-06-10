@@ -43,7 +43,7 @@ function user1() {
     );
   } else if (user == "9359950586" && pass == "9359") {
     window.open(
-      "covidtestresults/assets/reports/Ms SURABHI SHARMA_19Y_Female.pdf"
+      "covidtestresults/assets/reports/Mr SUMIT KHATTAR_37Y_Male.pdf"
     );
   } else {
     alert("PhoneNo/Password Mismatched...");
