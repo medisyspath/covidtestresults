@@ -41,6 +41,10 @@ function user1() {
     window.open(
       "covidtestresults/assets/reports/Ms SURABHI SHARMA_19Y_Female.pdf"
     );
+  } else if (user == "9359950586" && pass == "9359") {
+    window.open(
+      "covidtestresults/assets/reports/Ms SURABHI SHARMA_19Y_Female.pdf"
+    );
   } else {
     alert("PhoneNo/Password Mismatched...");
   }
